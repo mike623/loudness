@@ -1,0 +1,17 @@
+{
+  "name": "loudness",
+  "version": "1.0.0",
+  "description": "simple server to control mac with applescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
